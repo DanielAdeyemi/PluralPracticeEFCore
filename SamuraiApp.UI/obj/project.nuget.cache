@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yWNpC3WmOz+GU3KESzQvHxk9YCUb8LGfcp7a7gRTKX5Lu+t87mPoX2tIcANifG2AWNolWG+AGxD/WAsGeMhsvQ==",
+  "dgSpecHash": "FWX51TmnTa90OlxST+cheRVCv1s/53/uayHAjSdp2aGqxJ1Ltm1N3cJCKWxTtpVB43JSi5RRSWd9Yo1WdTeSRw==",
   "success": true,
-  "projectFilePath": "/Users/daniel/Desktop/Epicodus/C#W3/PS/SamuraiApp.UI/SamuraiApp.UI.csproj",
+  "projectFilePath": "/Users/daniel/Desktop/Epicodus/C#W3/SamuraiApp/SamuraiApp.UI/SamuraiApp.UI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

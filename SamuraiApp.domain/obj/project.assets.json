@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/daniel/Desktop/Epicodus/C#W3/PS/SamuraiApp.domain/SamuraiApp.domain.csproj",
-      "projectName": "SamuraiApp.domain",
-      "projectPath": "/Users/daniel/Desktop/Epicodus/C#W3/PS/SamuraiApp.domain/SamuraiApp.domain.csproj",
+      "projectUniqueName": "/Users/daniel/Desktop/Epicodus/C#W3/SamuraiApp/SamuraiApp.domain/SamuraiApp.Domain.csproj",
+      "projectName": "SamuraiApp.Domain",
+      "projectPath": "/Users/daniel/Desktop/Epicodus/C#W3/SamuraiApp/SamuraiApp.domain/SamuraiApp.Domain.csproj",
       "packagesPath": "/Users/daniel/.nuget/packages/",
-      "outputPath": "/Users/daniel/Desktop/Epicodus/C#W3/PS/SamuraiApp.domain/obj/",
+      "outputPath": "/Users/daniel/Desktop/Epicodus/C#W3/SamuraiApp/SamuraiApp.domain/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

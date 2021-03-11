@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/daniel/Desktop/Epicodus/C#W3/PS/SamuraiApp.UI/SamuraiApp.UI.csproj": {}
+    "/Users/daniel/Desktop/Epicodus/C#W3/SamuraiApp/SamuraiApp.UI/SamuraiApp.UI.csproj": {}
   },
   "projects": {
-    "/Users/daniel/Desktop/Epicodus/C#W3/PS/SamuraiApp.UI/SamuraiApp.UI.csproj": {
+    "/Users/daniel/Desktop/Epicodus/C#W3/SamuraiApp/SamuraiApp.UI/SamuraiApp.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/daniel/Desktop/Epicodus/C#W3/PS/SamuraiApp.UI/SamuraiApp.UI.csproj",
+        "projectUniqueName": "/Users/daniel/Desktop/Epicodus/C#W3/SamuraiApp/SamuraiApp.UI/SamuraiApp.UI.csproj",
         "projectName": "SamuraiApp.UI",
-        "projectPath": "/Users/daniel/Desktop/Epicodus/C#W3/PS/SamuraiApp.UI/SamuraiApp.UI.csproj",
+        "projectPath": "/Users/daniel/Desktop/Epicodus/C#W3/SamuraiApp/SamuraiApp.UI/SamuraiApp.UI.csproj",
         "packagesPath": "/Users/daniel/.nuget/packages/",
-        "outputPath": "/Users/daniel/Desktop/Epicodus/C#W3/PS/SamuraiApp.UI/obj/",
+        "outputPath": "/Users/daniel/Desktop/Epicodus/C#W3/SamuraiApp/SamuraiApp.UI/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/daniel/Desktop/Epicodus/C#W3/PS/SamuraiApp.domain/SamuraiApp.Domain.csproj": {}
+    "/Users/daniel/Desktop/Epicodus/C#W3/SamuraiApp/SamuraiApp.Domain/SamuraiApp.Domain.csproj": {}
   },
   "projects": {
-    "/Users/daniel/Desktop/Epicodus/C#W3/PS/SamuraiApp.domain/SamuraiApp.Domain.csproj": {
+    "/Users/daniel/Desktop/Epicodus/C#W3/SamuraiApp/SamuraiApp.Domain/SamuraiApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/daniel/Desktop/Epicodus/C#W3/PS/SamuraiApp.domain/SamuraiApp.Domain.csproj",
+        "projectUniqueName": "/Users/daniel/Desktop/Epicodus/C#W3/SamuraiApp/SamuraiApp.Domain/SamuraiApp.Domain.csproj",
         "projectName": "SamuraiApp.Domain",
-        "projectPath": "/Users/daniel/Desktop/Epicodus/C#W3/PS/SamuraiApp.domain/SamuraiApp.Domain.csproj",
+        "projectPath": "/Users/daniel/Desktop/Epicodus/C#W3/SamuraiApp/SamuraiApp.Domain/SamuraiApp.Domain.csproj",
         "packagesPath": "/Users/daniel/.nuget/packages/",
-        "outputPath": "/Users/daniel/Desktop/Epicodus/C#W3/PS/SamuraiApp.domain/obj/",
+        "outputPath": "/Users/daniel/Desktop/Epicodus/C#W3/SamuraiApp/SamuraiApp.Domain/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
