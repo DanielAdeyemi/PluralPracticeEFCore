@@ -14,7 +14,7 @@ namespace SamuraiApp.Data
         public DbSet<Quote> Quotes { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Data Source= (localdb)\\MSSQLLocalDB; Initial Catalog=SamuraiAppData");
+            optionsBuilder.UseSqlServer("Data Source= (localhost)\\MSSQLLocalHost; Initial Catalog=SamuraiAppData");
         }
     }
 }

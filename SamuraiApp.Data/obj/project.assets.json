@@ -429,6 +429,15 @@
           }
         }
       },
+      "MySqlConnector/0.69.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.0/MySqlConnector.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/MySqlConnector.dll": {}
+        }
+      },
       "Newtonsoft.Json/10.0.1": {
         "type": "package",
         "dependencies": {
@@ -2249,6 +2258,34 @@
         "runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.xml",
         "useSharedDesignerContext.txt",
         "version.txt"
+      ]
+    },
+    "MySqlConnector/0.69.0": {
+      "sha512": "WcTKuczgGiCNqyNpBW3oTZnRzitIxKl/V7D2foKsUFsW+hcJgDSOT147KPLC25VO/Aaj8FXsozK+zDLsAsOv8g==",
+      "type": "package",
+      "path": "mysqlconnector/0.69.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/MySqlConnector.dll",
+        "lib/net45/MySqlConnector.xml",
+        "lib/net461/MySqlConnector.dll",
+        "lib/net461/MySqlConnector.xml",
+        "lib/net471/MySqlConnector.dll",
+        "lib/net471/MySqlConnector.xml",
+        "lib/netcoreapp2.1/MySqlConnector.dll",
+        "lib/netcoreapp2.1/MySqlConnector.xml",
+        "lib/netcoreapp3.0/MySqlConnector.dll",
+        "lib/netcoreapp3.0/MySqlConnector.xml",
+        "lib/netstandard1.3/MySqlConnector.dll",
+        "lib/netstandard1.3/MySqlConnector.xml",
+        "lib/netstandard2.0/MySqlConnector.dll",
+        "lib/netstandard2.0/MySqlConnector.xml",
+        "lib/netstandard2.1/MySqlConnector.dll",
+        "lib/netstandard2.1/MySqlConnector.xml",
+        "logo.png",
+        "mysqlconnector.0.69.0.nupkg.sha512",
+        "mysqlconnector.nuspec"
       ]
     },
     "Newtonsoft.Json/10.0.1": {
@@ -5758,6 +5795,7 @@
     "net5.0": [
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.0",
+      "MySqlConnector >= 0.69.0",
       "SamuraiApp.Domain >= 1.0.0"
     ]
   },
@@ -5813,6 +5851,10 @@
           "Microsoft.EntityFrameworkCore.Tools": {
             "target": "Package",
             "version": "[5.0.0, )"
+          },
+          "MySqlConnector": {
+            "target": "Package",
+            "version": "[0.69.0, )"
           }
         },
         "imports": [
