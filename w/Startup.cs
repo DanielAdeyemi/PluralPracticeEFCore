@@ -15,10 +15,12 @@ namespace w
     {
         public Startup(IConfiguration configuration)
         {
+            Enviroment = env;
             Configuration = configuration;
         }
 
         public IConfiguration Configuration { get; }
+        public IWebHostEnvironment Environment { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
@@ -54,4 +56,9 @@ namespace w
             });
         }
     }
+
+    public static class DBConfiguration
+  {
+    public static string ConnectionString = "server=localhost;user id=root;password=epicodus;port=3306;database=SamuraiAppData;";
+  }
 }
